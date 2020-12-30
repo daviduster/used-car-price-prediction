@@ -1,4 +1,6 @@
 /utils
+/notebooks/logs/*
+/notebooks/catboost_info
 .DS_Store
 .vscode
 **.ipynb_checkpoints
