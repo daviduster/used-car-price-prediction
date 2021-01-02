@@ -1,0 +1,190 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{ynt/global//global/global}
+  \entry{catboost}{online}{}
+    \keyw{catboost}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cat}
+    \field{extraalpha}{1}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Catboost.}
+    \verb{url}
+    \verb https://catboost.ai/
+    \endverb
+  \endentry
+
+  \entry{catboost-onehot}{online}{}
+    \keyw{catboost, one-hot}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cat}
+    \field{extraalpha}{2}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Catboost One Hot.}
+    \verb{url}
+    \verb https://catboost.ai/docs/features/categorical-features.html
+    \endverb
+  \endentry
+
+  \entry{catboost-overfit}{online}{}
+    \keyw{catboost, overfit}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cat}
+    \field{extraalpha}{3}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Catboost Overfit.}
+    \verb{url}
+    \verb https://catboost.ai/docs/concepts/overfitting-detector.html
+    \endverb
+  \endentry
+
+  \entry{getdummies}{online}{}
+    \keyw{one-hot}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Get}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Get Dummies.}
+    \verb{url}
+    \verb https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get
+    \verb _dummies.html
+    \endverb
+  \endentry
+
+  \entry{keras-dense}{online}{}
+    \keyw{keras,dense}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ker}
+    \field{extraalpha}{1}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Keras dense.}
+    \verb{url}
+    \verb https://keras.io/api/layers/core_layers/dense/
+    \endverb
+  \endentry
+
+  \entry{keras-sequential}{online}{}
+    \keyw{keras,sequential}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ker}
+    \field{extraalpha}{2}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Keras Sequential}
+    \verb{url}
+    \verb https://keras.io/guides/sequential_model/
+    \endverb
+  \endentry
+
+  \entry{nodes-hidden}{online}{}
+    \keyw{keras,nodes,hidden}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Nod}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Nodes hidden layers}
+    \verb{url}
+    \verb https://stats.stackexchange.com/questions/181/how-to-choose-the-numbe
+    \verb r-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw
+    \endverb
+  \endentry
+
+  \entry{rfc}{online}{}
+    \keyw{random}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Rfc}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Random Forest Classifier.}
+    \verb{url}
+    \verb https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.Ra
+    \verb ndomForestClassifier.html
+    \endverb
+  \endentry
+
+  \entry{random-grid}{online}{}
+    \keyw{grid}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ran}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Randomized Grid Search.}
+    \verb{url}
+    \verb https://scikit-learn.org/stable/auto_examples/model_selection/plot_ra
+    \verb ndomized_search.html
+    \endverb
+  \endentry
+
+  \entry{skew}{online}{}
+    \keyw{skew}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ske}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Skewed data.}
+    \verb{url}
+    \verb https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Dat
+    \verb aFrame.skew.html
+    \endverb
+  \endentry
+
+  \entry{softmax}{online}{}
+    \keyw{keras,softmax}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sof}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{Softmax}
+    \verb{url}
+    \verb https://developers.google.com/machine-learning/crash-course/multi-cla
+    \verb ss-neural-networks/softmax
+    \endverb
+  \endentry
+
+  \entry{xgboost}{online}{}
+    \keyw{xgboost}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Xgb}
+    \field{extraalpha}{1}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{XGBoost.}
+    \verb{url}
+    \verb https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.Ra
+    \verb ndomForestClassifier.html
+    \endverb
+  \endentry
+
+  \entry{xgboost-tuning}{online}{}
+    \keyw{tuning}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Xgb}
+    \field{extraalpha}{2}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+    \field{title}{XGBoost tuning.}
+    \verb{url}
+    \verb https://xgboost.readthedocs.io/en/latest/parameter.html
+    \endverb
+  \endentry
+\enddatalist
+\endinput

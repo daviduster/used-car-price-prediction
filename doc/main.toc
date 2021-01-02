@@ -1,0 +1,40 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Introducción}{1}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Descripción del problema}{1}{section*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Descripción de los atributos}{1}{section*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Ficheros}{2}{section*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Competición}{3}{chapter*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Exploratory data analysis}{3}{section*.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Preprocesamientos}{12}{section*.62}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Missing values}{12}{section*.63}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Etiquetado}{13}{section*.72}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Escalado}{14}{section*.81}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Skewed data y outliers}{14}{section*.82}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Balanceado}{18}{section*.105}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Algoritmos}{19}{section*.106}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Random Forest}{19}{section*.107}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{XGBoost}{21}{section*.140}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Catboost}{23}{section*.168}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Red Neuronal}{24}{section*.188}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tabla}{30}{section*.292}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Referencias}{32}{chapter*.295}%
