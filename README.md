@@ -2,8 +2,7 @@
 
 
 ## Introducción
-En esta tercera y última práctica de la asignatura Inteligencia de Negocio veremos el uso de métodos avanzados para aprendizaje supervisado en clasificación sobre una competición disponible en Kaggle, creada ex-proceso para esta práctica. Se buscará́ adquirir destrezas para mejorar la capacidad predictiva del modelo mientras nos familiarizamos con una de las plataformas más populares de competición en ciencias de datos.
-Descripcio ́n del problema
+En esta tercera y última práctica de la asignatura Inteligencia de Negocio veremos el uso de métodos avanzados para aprendizaje supervisado en clasificación sobre una competición disponible en Kaggle, creada ex-proceso para esta práctica. Se buscará adquirir destrezas para mejorar la capacidad predictiva del modelo mientras nos familiarizamos con una de las plataformas más populares de competición en ciencias de datos.
 
 ## Problema
 
